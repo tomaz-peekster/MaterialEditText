@@ -1,5 +1,7 @@
 package com.rengwuxian.materialedittext;
 
+import android.animation.ArgbEvaluator;
+import android.animation.ObjectAnimator;
 import android.annotation.TargetApi;
 import android.content.Context;
 import android.content.res.ColorStateList;
@@ -30,8 +32,6 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.widget.MultiAutoCompleteTextView;
 
-import com.nineoldandroids.animation.ArgbEvaluator;
-import com.nineoldandroids.animation.ObjectAnimator;
 import com.rengwuxian.materialedittext.validation.METValidator;
 
 import java.util.ArrayList;

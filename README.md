@@ -89,10 +89,6 @@ Maven:
 
 See on [Wiki Page](https://github.com/rengwuxian/MaterialEditText/wiki) or [中文看这里](http://www.rengwuxian.com/post/MaterialEditText)
 
-## Thanks to
-
-[NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids/)
-
 ## License
 
     Copyright 2014 rengwuxian
